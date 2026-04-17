@@ -185,6 +185,6 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 ⭐ Star this repo if you find it helpful!
 
-[Report Bug](https://github.com/yourusername/Medicalstore/issues) • [Request Feature](https://github.com/yourusername/Medicalstore/issues)
+[Report Bug](https://github.com/Dhanya-KM/Medicalstore/issues) • [Request Feature](https://github.com/Dhanya-KM/Medicalstore/issues)
 
 </div>"
