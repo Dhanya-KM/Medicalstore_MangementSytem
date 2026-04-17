@@ -1,4 +1,4 @@
-"# 🏥 Medical Store Management System
+"# **🏥 Medical Store Management System**
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen)](https://nodejs.org/)
